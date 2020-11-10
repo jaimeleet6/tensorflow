@@ -9,3 +9,4 @@ This repo is structured in just one folder, containing every notebook I've creat
  - Module 3. Creating my very first NN (Sequential) and analyzing MNIST's Fashion Dataset.
  - Module 4. Computing vision and image recognition using convolutional neural networks (CNN).
  - Module 5. Natural language processing and introduction of recurrent neural networks (RNN).
+ - Module 6. Q-Learning and reinforcement learning.
